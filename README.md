@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 
@@ -137,3 +138,7 @@ Resource Book:  [Comprenhensive Stress Management](documents/book/comprehensive-
 - **Demonstrate Mastery of Objectives from Weeks 1–7**  
 - **Better Manage Your Stress & Live a Healthier Life**  
 - **Practice a Relaxation Technique on Your Own**
+=======
+# stressmanageement
+The following is a course outline for comprenhensive stress management 
+>>>>>>> cbb6a7a0a666f6396242671e628b060b4bbfe5d9
