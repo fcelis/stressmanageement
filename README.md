@@ -12,8 +12,8 @@ Resource Book:  [Comprenhensive Stress Management](documents/book/comprehensive-
 ### Resources
 - [PowerPoint Presentation](documents/pptx/unit1.pptx)  
 - [Video Resource](documents/videos/Unit1.mp4)  
-- YouTube Video:  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/pLnSZ5bAuRA?si=w-E27SSwSkoZKzVi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Progressive Relaxtion: Stress Relief Acitiviry](https://youtu.be/pLnSZ5bAuRA?si=vuNbsppPyYZB3D-2)
+
 ### Labs / Downloadable Materials
 | Lab Document | Description | Download Link |
 |--------------|-------------|---------------|
@@ -31,13 +31,7 @@ Resource Book:  [Comprenhensive Stress Management](documents/book/comprehensive-
 ### Resources
 - [PowerPoint Presentation](#)  
 - [Video Resource](#)  
-- YouTube Video:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/45sYfNQzOTg?si=UqSk9AUXtBPovYl7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-### Labs / Downloadable Materials
-| Lab Document | Description | Download Link |
-|--------------|-------------|---------------|
-| Lab 3 | Meditation Exercises | [Download](#) |
-| Lab 4 | Progressive Relaxation | [Download](#) |
+- [LF On-Demand: Yoga Gentle Flow2](https://youtu.be/45sYfNQzOTg?si=28MPiJX_1NsjX2gu)
 
 ---
 
@@ -52,14 +46,7 @@ Resource Book:  [Comprenhensive Stress Management](documents/book/comprehensive-
 ### Resources
 - [PowerPoint Presentation](#)  
 - [Video Resource](#)  
-- YouTube Video:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/45sYfNQzOTg?si=lfoa30zyt5dINAKO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Labs / Downloadable Materials
-| Lab Document | Description | Download Link |
-|--------------|-------------|---------------|
-| Lab 5 | Conflict Resolution Exercises | [Download](#) |
-| Lab 6 | Self-Awareness Techniques | [Download](#) |
+- [Mindful Mediation](https://youtu.be/ZToicYcHIOU?si=ooykUty8jy-kY-RW)
 
 ---
 
@@ -79,13 +66,7 @@ Resource Book:  [Comprenhensive Stress Management](documents/book/comprehensive-
 
 - [All about sleep]([https://www.precisionnutrition.com/all-about-sleep](https://www.precisionnutrition.com/all-about-sleep))
 - [Over sleeping]([https://www.precisionnutrition.com/why-do-i-sleep-so-much](https://www.precisionnutrition.com/why-do-i-sleep-so-much))
-- [YouTube Video: ]([https://www.youtube.com/watch?v=4wEDoKm40Yc](https://www.youtube.com/watch?v=4wEDoKm40Yc)) 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4wEDoKm40Yc?si=59MjnHSnQklB-vJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-### Labs / Downloadable Materials
-| Lab Document | Description                    | Download Link |
-| ------------ | ------------------------------ | ------------- |
-| Lab 7        | Sleep and Stress Tracking      | [Download](#) |
-| Lab 8        | Relaxation Techniques Practice | [Download](#) |
+- [Equal Breathing Exercise for Sleep](https://youtu.be/4wEDoKm40Yc?si=ynEdy43Qbn7qJtqd)
 
 ---
 
@@ -100,13 +81,8 @@ Resource Book:  [Comprenhensive Stress Management](documents/book/comprehensive-
 ### Resources
 - [PowerPoint Presentation](#)  
 - [Video Resource](#)  
-- [YouTube Video: ]([https://www.youtube.com/watch?v=zPgwQFU1Cwc&t=6s](https://www.youtube.com/watch?v=zPgwQFU1Cwc&t=6s))
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/zPgwQFU1Cwc?si=n_kMJQdk17nycTwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-### Labs / Downloadable Materials
-| Lab Document | Description | Download Link |
-|--------------|-------------|---------------|
-| Lab 9 | Work Stress Identification | [Download](#) |
-| Lab 10 | Burnout Recovery Exercises | [Download](#) |
+- [12-minute mediation: Diaphragmatic breathing](https://www.youtube.com/watch?v=zPgwQFU1Cwc&t=6s)
+  
 
 ---
 
@@ -121,13 +97,7 @@ Resource Book:  [Comprenhensive Stress Management](documents/book/comprehensive-
 ### Resources
 - [PowerPoint Presentation](#)  
 - [Video Resource](#)  
-- [YouTube Video:]([https://www.youtube.com/watch?v=iFP19J9GZJI&t=387s](https://www.youtube.com/watch?v=iFP19J9GZJI&t=387s))  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iFP19J9GZJI?si=feGAhyxxhh0u1Dkh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-### Labs / Downloadable Materials
-| Lab Document | Description | Download Link |
-|--------------|-------------|---------------|
-| Lab 11 | Financial Stress Assessment | [Download](#) |
-| Lab 12 | Relaxation Techniques for Financial Stress | [Download](#) |
+- [Yoga: Basic Morning Flow 1](https://www.youtube.com/watch?v=iFP19J9GZJI&t=387s)  
 
 ---
 
